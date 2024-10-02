@@ -58,7 +58,7 @@ Welcome to my **Forage Data Science Projects**! This repository documents my jou
     - Description: Brief description of the project.
     - Tools: List of tools and technologies used.
     - Outcome: Summary of the results or findings.
-    ggggggggggg
+
 
 ...
 
