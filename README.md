@@ -54,11 +54,20 @@ Welcome to my **Forage Data Science Projects**! This repository documents my jou
 ---
 
 
-3. **Project 3: [Project Title]**
-    - Description: Brief description of the project.
-    - Tools: List of tools and technologies used.
-    - Outcome: Summary of the results or findings.
+3. ## Project 3: BCG x :PowerCo Churn Analysis
+**Description:**
+This project focuses on analyzing customer churn for PowerCo. The aim was to investigate whether price sensitivity is the most influential factor in customer churn and, if not, to what extent it influences churn. The analysis included examining customer data, visualizing distributions, and performing exploratory data analysis (EDA) to derive actionable insights.
 
+**Tools:**
+- Data Analysis: Pandas
+- Data Visualization: Matplotlib, Seaborn
+- Exploratory Data Analysis: Jupyter Notebook
+
+**Outcome:**
+- Analyzed the impact of various factors on customer churn, including price sensitivity.
+- Reported data types and descriptive statistics of the datasets.
+- Visualized distributions of relevant columns to identify trends and patterns.
+- Provided insights on customer behavior to inform retention strategies.
 
 ...
 
