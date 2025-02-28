@@ -602,15 +602,7 @@ CustomerID,Age,Gender,MaritalStatus,IncomeLevel,Cluster
 601,41,F,Widowed,Low,2
 602,52,M,Widowed,Medium,3
 603,53,M,Single,High,0
-604,27,M,Divorced,Low,1# Plot elbow curve
-plt.figure(figsize=(10, 6))
-plt.plot(K, inertias, 'bx-')
-plt.xlabel('k')
-plt.ylabel('Inertia')
-plt.title('Elbow Method For Optimal k')
-plt.savefig('elbow_curve.png')
-plt.close()
-
+604,27,M,Divorced,Low,1# 
 605,44,M,Divorced,Low,1
 606,44,F,Married,Low,2
 607,40,M,Married,High,0
